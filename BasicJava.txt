@@ -2,3 +2,5 @@ What is Java?
 Java is a high level, object oriented programming language which has its own development Universe ranging from application development to web development , automation and android development as well.
 Java is Robust, follows Write once run anywhere principle. 
 
+Is Java a Pure Object Oriented Programming language?
+As there are some already present primitive data types like int,float,double,boolean, due to which Java is not considered as a pure object oriented programming language.
