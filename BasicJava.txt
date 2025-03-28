@@ -4,3 +4,7 @@ Java is Robust, follows Write once run anywhere principle.
 
 Is Java a Pure Object Oriented Programming language?
 As there are some already present primitive data types like int,float,double,boolean, due to which Java is not considered as a pure object oriented programming language.
+
+
+What do you mean by Stability in Java, when we say java is stable?
+Basically stability means java provide support to all its previous versions as well. If new version comes it doesn't make previous one as worthless.
